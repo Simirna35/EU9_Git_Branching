@@ -7,6 +7,8 @@ public class TestCase001 {
         // First test case
 
         // Updated the test case
+
+        // added negative test cases
     }
 
 
